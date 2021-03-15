@@ -1,16 +1,16 @@
 module.exports = {
-  siteTitle: 'Golam Rabbani | Software Engineer',
+  siteTitle: 'Daksh Goyal | Student',
   siteDescription:
-    'Golam Rabani is a Full Stack Software Engineer specializing in building (and occasionally designing) exceptional, high-quality websites and applications for both mobile and web.',
+    'Daksh Goyal is a full-time undergraduate student at NITK, India. I am deeply interested by Deep Learning and how algorithms can be smart too. I am currently working on exploring the endless possibilities of innovation using CNNs and RNNs, individually as well as in conjunction.',
   siteKeywords:
-    'Golam Rabbani, software engineer, front-end engineer, web developer, javascript, react developer',
-  siteUrl: 'https://rabbani.dev',
+    'Daksh Goyal, software engineer, machine learning, deep learning, research, pytorch, tensorflow, CNN, RNN',
+  siteUrl: 'https://daksh-goyal.github.io',
   siteLanguage: 'en_US',
   name: 'Daksh Goyal',
   location: 'Uttarakhand, India',
   email: 'dakshgoyal.171cv111@nitk.edu.in',
   github: 'https://github.com/daksh-goyal',
-  twitterHandle: '@mgorabbani',
+  twitterHandle: '@Daksh__Goyal',
   socialMedia: [
     {
       name: 'GitHub',
