@@ -53,6 +53,7 @@ module.exports = {
   greenColor: '#FF4838',
   navyColor: '#162B32',
   darkNavyColor: '#020c1b',
+  googleAnalyticsID: 'G-1RHEY9DFDE',
 
   srConfig: (delay = 200) => ({
     origin: 'bottom',
