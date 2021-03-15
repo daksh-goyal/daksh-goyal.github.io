@@ -17,7 +17,7 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "deploy": "gh-pages -d public "
+    "deploy": "npm run build && gh-pages -d public "
   },
   "homepage": "https://daksh-goyal.github.io",
   "husky": {
