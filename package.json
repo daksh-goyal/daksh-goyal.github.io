@@ -1,5 +1,5 @@
 {
-  "name": "Daksh Goyal",
+  "name": "DakshGoyal",
   "description": "Personal Website",
   "version": "1.0.0",
   "author": "Daksh Goyal <dakshgoyal58@gmail.com>",
@@ -16,7 +16,8 @@
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "gh-pages -d public "
   },
   "homepage": "https://daksh-goyal.github.io",
   "husky": {
