@@ -124,7 +124,7 @@ const StyledImgContainer = styled.a`
   grid-column: 6 / -1;
   grid-row: 1 / -1;
   position: relative;
-  z-index: 1;
+  z-index: -1;
   background-color: ${colors.green};
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
@@ -202,7 +202,7 @@ const StyledProject = styled.div`
   }
 `;
 
-const Featured = ({ data }) => {
+const Publications = ({ data }) => {
   const featuredProjects = data.filter(({ node }) => node.frontmatter.show === 'true');
 
   const revealTitle = useRef(null);
@@ -214,7 +214,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I've Built</Heading>
+      <Heading ref={revealTitle}>My Scientific Publications</Heading>
 
       <div>
         {featuredProjects &&
@@ -225,7 +225,7 @@ const Featured = ({ data }) => {
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <StyledContent>
-                  <StyledLabel>Featured Project</StyledLabel>
+                  <StyledLabel>IEEE MMSP 2020</StyledLabel>
                   <StyledProjectName>
                     {external ? (
                       <a
@@ -283,8 +283,8 @@ const Featured = ({ data }) => {
   );
 };
 
-Featured.propTypes = {
+Publications.propTypes = {
   data: PropTypes.array.isRequired,
 };
 
-export default Featured;
+export default Publications;

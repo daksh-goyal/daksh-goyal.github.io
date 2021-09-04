@@ -2,6 +2,7 @@ import About from './about';
 import Contact from './contact';
 import Email from './email';
 import Featured from './featured';
+import Publications from './publications';
 import Footer from './footer';
 import Head from './head';
 import Hero from './hero';
@@ -18,6 +19,7 @@ export {
   Contact,
   Email,
   Featured,
+  Publications,
   Footer,
   Head,
   Hero,

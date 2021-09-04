@@ -1,14 +1,14 @@
 module.exports = {
-  siteTitle: 'Daksh Goyal | Student',
+  siteTitle: 'Daksh Goyal',
   siteDescription:
-    'Daksh Goyal is a full-time undergraduate student at NITK, India. I am deeply interested by Deep Learning and how algorithms can be smart too. I am currently working on exploring the endless possibilities of innovation using CNNs and RNNs, individually as well as in conjunction.',
+    'Daksh Goyal is a full stack web developer based in India. Familiar with modern-day web development libraries and frameworks and is also interested in machine learning and its prospects as an inter-disciplinary tool.',
   siteKeywords:
-    'Daksh Goyal, software engineer, machine learning, deep learning, research, pytorch, tensorflow, CNN, RNN',
+    'Daksh Goyal, full stack, frontend, backend, web developer, react, node, graphql, software engineer, machine learning, deep learning, research, pytorch, tensorflow, CNN, RNN',
   siteUrl: 'https://daksh-goyal.github.io',
   siteLanguage: 'en_US',
   name: 'Daksh Goyal',
   location: 'Uttarakhand, India',
-  email: 'dakshgoyal.171cv111@nitk.edu.in',
+  email: 'dakshgoyal58@gmail.com',
   github: 'https://github.com/daksh-goyal',
   twitterHandle: '@Daksh__Goyal',
   socialMedia: [
