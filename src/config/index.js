@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Daksh Goyal is a full stack web developer based in India. Familiar with modern-day web development libraries and frameworks and is also interested in machine learning and its prospects as an inter-disciplinary tool.',
   siteKeywords:
-    'Daksh Goyal, full stack, frontend, backend, web developer, react, node, graphql, software engineer, machine learning, deep learning, research, pytorch, tensorflow, CNN, RNN',
+    'Daksh Goyal, full stack, frontend, backend, web developer, react, node, graphql, angular, software engineer, machine learning, deep learning, research, pytorch, tensorflow, CNN, RNN',
   siteUrl: 'https://daksh-goyal.github.io',
   siteLanguage: 'en_US',
   name: 'Daksh Goyal',

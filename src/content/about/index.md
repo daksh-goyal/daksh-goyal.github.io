@@ -3,23 +3,24 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - React & Redux
+  - Angular
   - Node.js
-  - Deno
   - TypeScript
+  - MongoDB
+  - Deno
   - Docker
+  - React
   - Python
-  - C++
-  - PyTorch
-  - TensorFlow
 ---
 
-Hello! I'm Daksh Goyal, I enjoy creating websites and web apps that perform just as good as they look. I always look forward to learning new things.
+Hey there! This is Daksh. I enjoy maths, brainstorming ideas to solve a particular problem, giving reviews on different decisions being made. I am almost always doing all of this tasks back and forth simultaneously at my job as a software developer.
 
-I recently graduated from [NIT-K](https://www.nitk.ac.in) in May, 2021 with a degree in civil engineering. I've been passionately following the self-taught web developer path, trying to better myself at building performant websites that provide a great user experience.
+I currently work for [Signzy](https://signzy.com/) as a fullstack web developer. At work, I mostly work on apps that have a Nodejs backend (assisted by frameworks like loopback, koa etc.) and an Angular frontend, with MongoDB as the database of choice.
 
-Besides my passion for web development, I also am enthusiastic about machine learning and the immense potential to integrate it into various different fields.
+Apart from work I always am interested in learning things that help me get better as a developer and as a person. Currently I have been going through a lot of talks by well known developers and exploring the intriguing ideas of functional programming, test driven development (TDD) and the importance of architechture & good coding practices. When I am not doing any of this, I like to indulge in sports.
 
-Currently, I'm actively looking for opportunities as a web developer.
+I graduated from [NIT-K](https://www.nitk.ac.in) in May, 2021 with a Bachelor's degree in Civil Engineering, and have been learning web development and all the other stuff out of my sheer interest and passion towards tech.
+
+I am open to new opportunities as a web developer.
 
 Here is a non-exhaustive list of technologies I've worked with:

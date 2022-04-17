@@ -5,4 +5,4 @@ subtitle: 'I build stuff for the web.'
 contactText: 'Get In Touch'
 ---
 
-I am a full stack web developer based in India. Currently, I'm focused on building performant websites and web applications that meet the modern day standards.
+I am a full stack web developer based in India. I am highly passionate about programming and am always looking to learn skills that bridge the gap between me and the more senior developers in the industry.
